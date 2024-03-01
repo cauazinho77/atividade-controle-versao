@@ -1,1 +1,1 @@
-Este é um arquivo de exemplo para a atividade de controle de versão.
+Este é um arquivo de exemplo para a atividade de controle de versão, já alterado
